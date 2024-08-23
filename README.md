@@ -85,4 +85,5 @@ Date | Commit Message | Version
 - [Reinforcement Learning Cartpole](https://www.anyscale.com/blog/an-introduction-to-reinforcement-learning-with-openai-gym-rllib-and-google)
 - [Forest Fires Data](https://archive.ics.uci.edu/dataset/162/forest+fires)
 - [Car Data](https://archive.ics.uci.edu/dataset/19/car+evaluation)
-- 
+- [Mountain Car](https://gymnasium.farama.org/environments/classic_control/mountain_car/)
+- [Wine Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html#sklearn.datasets.load_wine)
