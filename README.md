@@ -25,7 +25,7 @@ Deep learning (no demonstration included) is a subset of reinforcement learning 
 - [x] Supervised Learning - Classification using K-NN {Required}
 - [x] Unsupervised Learning - Clustering
 - [x] Reinforcement Learning - Agents and the QLearningAgent algorithm. 
-- [x] Reiforcement Learning - Include a discussion of the learning process
+- [x] Reinforcement Learning - Include a discussion of the learning process
 - [x] Finalise SupervisedLearning.md
 
 > **Assessment Criteria Reviews**  
@@ -66,10 +66,15 @@ Date | Commit Message | Version
 13.08.24 | added the linear regression sample data | 0.2.1
 13.08.24 | making sure vsCode is syncing properly again | 0.2.3
 13.08.24 | update README | 0.2.4
-13.08.24 | updating KNNClassification code data tittles | 0.2.5
+13.08.24 | updating KNNClassification code data titles | 0.2.5
 17.08.24 | update README | 0.2.6
 22.08.24 | added ReinforcementLearning | 0.3.0
 23.08.24 | added KMeansClustering | 0.4.0
+23.08.24 | spellchecking ReinforcementLearning.ipynb | 0.4.1
+23.08.24 | spellchecking KNNClassification.ipynb | 0.4.2
+23.08.24 | spellchecking LinearRegression.ipynb | 0.4.3
+23.08.24 | spellchecking SupervisedLearning.md | 0.4.4
+23.08.24 | spellchecking KMeansClustering.ipynb | 0.4.5
 23.08.24 | Final Version | 1.0.0
 
 
