@@ -21,20 +21,21 @@ Deep learning (no demonstration included) is a subset of reinforcement learning 
 > Primary Objectives
 
 - [x] GitHub Project Repo Setup {Optional}
-- [ ] Supervised Learning - Linear Regression {Required}
-- [ ] Supervised Learning - Classification using K-NN {Required}
-- [ ] Unsupervised Learning - Clustering
-- [ ] Reinforcement Learning – Agents and the QLearningAgent algorithm. Include a 
-discussion of the learning process
+- [x] Supervised Learning - Linear Regression {Required}
+- [x] Supervised Learning - Classification using K-NN {Required}
+- [x] Unsupervised Learning - Clustering
+- [x] Reinforcement Learning - Agents and the QLearningAgent algorithm. 
+- [x] Reiforcement Learning - Include a discussion of the learning process
+- [x] Finalise SupervisedLearning.md
 
 > **Assessment Criteria Reviews**  
 > First Review
 
 - [x] GitHub Project Repo Setup First Criteria Review
-- [ ] Supervised Learning - Linear Regression First Criteria Review
-- [ ] Supervised Learning - Classification using K-NN First Criteria Review
-- [ ] Unsupervised Learning - Clustering First Criteria Review
-- [ ] Reinforcement Learning – Agents and the QLearningAgent algorithm. Include a 
+- [x] Supervised Learning - Linear Regression First Criteria Review
+- [x] Supervised Learning - Classification using K-NN First Criteria Review
+- [x] Unsupervised Learning - Clustering First Criteria Review
+- [x] Reinforcement Learning – Agents and the QLearningAgent algorithm. Include a 
 discussion of the learning process First Criteria Review
 - [x] Submit Draft
 
@@ -46,8 +47,6 @@ discussion of the learning process First Criteria Review
 - [ ] Unsupervised Learning - Clustering Final Criteria Review
 - [ ] Reinforcement Learning – Agents and the QLearningAgent algorithm. Include a 
 discussion of the learning process Final Criteria Review
-
-
 
 
 ## Worklog and Commits
@@ -69,8 +68,9 @@ Date | Commit Message | Version
 13.08.24 | update README | 0.2.4
 13.08.24 | updating KNNClassification code data tittles | 0.2.5
 17.08.24 | update README | 0.2.6
-17.08.24 | add data titles | 0.2.7
-17.08.24 | add data titles | 0.2.8
+22.08.24 | added ReinforcementLearning | 0.3.0
+23.08.24 | added KMeansClustering | 0.4.0
+23.08.24 | Final Version | 1.0.0
 
 
 ### References
