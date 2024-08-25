@@ -41,11 +41,11 @@ discussion of the learning process First Criteria Review
 
 > Final Review
 
-- [ ] GitHub Project Repo Setup Final Criteria Review
-- [ ] Supervised Learning - Linear Regression Final Criteria Review
-- [ ] Supervised Learning - Classification using K-NN Final Criteria Review
-- [ ] Unsupervised Learning - Clustering Final Criteria Review
-- [ ] Reinforcement Learning – Agents and the QLearningAgent algorithm. Include a 
+- [x] GitHub Project Repo Setup Final Criteria Review
+- [x] Supervised Learning - Linear Regression Final Criteria Review
+- [x] Supervised Learning - Classification using K-NN Final Criteria Review
+- [x] Unsupervised Learning - Clustering Final Criteria Review
+- [x] Reinforcement Learning – Agents and the QLearningAgent algorithm. Include a 
 discussion of the learning process Final Criteria Review
 
 
